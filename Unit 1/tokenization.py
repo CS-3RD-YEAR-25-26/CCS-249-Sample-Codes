@@ -15,7 +15,7 @@ print(re_tokenize)
 
 # Using regex to tokenize sentences
 sentences = "Hello! I would like to say to you that. You know?"
-sentence_re = r"\w+[!.?]|\w+"
+sentence_re = r"\w+[!.?]*"
 sentence_tokenize = re.findall(sentence_re, sentences)
 print(sentence_tokenize)
 
