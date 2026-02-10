@@ -1,0 +1,10 @@
+< the cat sat on the mat >
+< the dog slept on the rug >
+< the cat chased the mouse >
+< the dog chased the cat >
+< the mouse ran under the table >
+< the cat slept on the bed >
+< the dog sat by the door >
+< the mouse found some cheese >
+< the cat looked at the mouse >
+< the dog barked at the cat >

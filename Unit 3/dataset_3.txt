@@ -1,0 +1,10 @@
+< This phone is very fast >
+< This phone is too slow >
+< The battery life is great >
+< The battery life is terrible >
+< The screen is bright and clear >
+< The screen is too dark >
+< This laptop is very light >
+< This laptop is heavy and slow >
+< The keyboard is comfortable >
+< The sound quality is poor >

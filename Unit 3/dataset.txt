@@ -1,0 +1,8 @@
+< The cat sat on the mat > 
+< The dog barked at the cat > 
+< The cat jumped over the fence > 
+< The dog ran after the cat > 
+< The cat climbed a tree > 
+< The dog waited under the tree  >
+< The cat meowed loudly >
+< The dog wagged its tail >
